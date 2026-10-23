@@ -50,3 +50,10 @@ An end-to-end computer vision pipeline tailored for small object detection in hi
 ├── notebooks/       # Inference demonstration notebooks
 ├── requirements.txt # Python dependencies
 └── README.md
+
+## 📄 Project Documentation & Presentations
+
+- **Final Technical Report:** [View Report PDF](./docs/UAV_Small_Object_Detection_Report.pdf)
+- **Project Presentation:** [View Slide Deck](./docs/UAV_Small_Object_Detection_Presentation.pdf)
+- **Institutional Certification:** [View Certificate](./docs/Project_Completion_Certificate.pdf)
+
